@@ -1,5 +1,6 @@
 # Proyecto videojuegos
 
-Kevin David Loaiza Giraldo
+Kevin David Loaiza Giraldo,
+
 Jonathan Perez Castro
 
