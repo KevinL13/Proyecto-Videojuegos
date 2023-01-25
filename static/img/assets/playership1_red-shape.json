@@ -1,0 +1,55 @@
+
+{
+    "type": "fromPhysicsEditor",
+    "isStatic": false,
+    "density": 0.8,
+    "restitution": 0.1,
+    "friction": 0.1,
+    "frictionAir": 0.001,
+    "frictionStatic": 0.5,
+    "collisionFilter": { "group": 0, "category": 1, "mask": 255 },
+    "label": "playership1_red.png",
+    "fixtures": [
+      {
+        "label": "playership1_red.png-fixture-0",
+        "isSensor": false,
+        "vertices": [
+          [
+            { "x": 38, "y": 26 },
+            { "x": 41, "y": 1 },
+            { "x": 57, "y": 0 },
+            { "x": 61, "y": 26 }
+          ],
+          [
+            { "x": 84, "y": 39 },
+            { "x": 99, "y": 32 },
+            { "x": 96, "y": 61 },
+            { "x": 90, "y": 58 }
+          ],
+          [
+            { "x": 64, "y": 64 },
+            { "x": 57, "y": 75 },
+            { "x": 42, "y": 75 },
+            { "x": 35, "y": 64 }
+          ],
+          [
+            { "x": 9, "y": 58 },
+            { "x": 4, "y": 62 },
+            { "x": 0, "y": 32 },
+            { "x": 15, "y": 39 }
+          ],
+          [
+            { "x": 15, "y": 39 },
+            { "x": 30, "y": 30 },
+            { "x": 38, "y": 26 },
+            { "x": 61, "y": 26 },
+            { "x": 84, "y": 39 },
+            { "x": 90, "y": 58 },
+            { "x": 64, "y": 64 },
+            { "x": 35, "y": 64 },
+            { "x": 9, "y": 58 }
+          ]
+        ]
+      }
+    ]
+  }
